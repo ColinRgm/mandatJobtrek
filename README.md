@@ -1,16 +1,10 @@
 # mandatJobtrek
 
-This template should help get you started developing with Vue 3 in Vite.
+This project is an application for our company [Jobtrek](https://jobtrek.ch/).
 
-## Recommended IDE Setup
+Our goal is to Create a web application for Jobtrek employees to collect and visualize different data (e.g. number of internships, satisfaction questionnaire, etc.). The software (Oauth) must give the possibility to connect the user with his Microsoft account and allow him to access only specific data according to the "authorizations". It must also be able to contain graphics that update automatically (2-3 times per day (to be defined)).
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
+## Project Setup  
 
 ```sh
 npm install
